@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UserdepartApplication<userdepart>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.springproject.userdepart.UserdepartApplication",
+            "projectName": "userdepart",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
